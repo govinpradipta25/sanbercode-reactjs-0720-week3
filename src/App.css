@@ -1,3 +1,4 @@
+/*tugas 11*/
 .Apptable {
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
@@ -40,6 +41,14 @@
   width: 500px;
   height: auto;
 
+}
+/*tugas 12*/
+.jam {
+  font-weight: bold;
+}
+
+.text-lg {
+  font-size: 20px;
 }
 
 /*@media (prefers-reduced-motion: no-preference) {
