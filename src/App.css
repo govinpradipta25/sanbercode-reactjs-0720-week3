@@ -51,6 +51,53 @@
   font-size: 20px;
 }
 
+.container {
+   text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: white;
+  padding: 10px 10px;
+  margin:250px; 
+  margin-top: 70px;
+  margin-bottom: 25px;
+  margin-left: 200px;
+  margin-right:  210px;
+
+
+}
+
+
+.tabelbuah {
+  width: 960px;
+  border: black solid 1px;
+  margin-left: -12px;
+  margin-right: -12px;
+  height: 100px;
+  font-weight: bold;
+  font-size: 18px;
+
+
+}
+th {
+  background-color: #aaaaaa;
+}
+td {
+  background-color: #ff7f50;
+}
+
+.mundur {
+  float: right;
+}
+
+#form-content{
+  border: black solid 1px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: -10px;
+  background-color: #aaaaaa;
+}
+
+
+
 /*@media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
