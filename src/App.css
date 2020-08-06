@@ -16,13 +16,13 @@
 }
 
 
-.table {
+/*.table {
   border: 0px solid black;
   margin: 30px auto;
   width: 500px;
   height: auto;
   background-color: white;
-}
+}*/
 
 .thead{
   background-color: #aaaaaa;
@@ -51,7 +51,8 @@
   font-size: 20px;
 }
 
-.container {
+/*tugas 13*/
+/*.container {
    text-align: center;
   font-family: 'Times New Roman', Times, serif;
   background-color: white;
@@ -94,8 +95,63 @@ td {
   margin-right: 300px;
   margin-top: -10px;
   background-color: #aaaaaa;
+}*/
+
+/*tugas 4*/
+div{
+  padding-left:2px;
+  font-family:serif;
+}
+table{
+  border: 1px solid black;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+th {
+  background-color: #aaaaaa;
+}
+td {
+  background-color:#ff7f50;
+}
+form{
+  text-align:center;
+}
+h1{text-align:center;}
+.containertugas14 {
+   text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: white;
+  padding: 10px 10px;
+  margin:250px; 
+  margin-top: 70px;
+  margin-bottom: 25px;
+  margin-left: 200px;
+  margin-right:  210px;
+
+
 }
 
+
+.tabelbuahtugas14 {
+  width: 960px;
+  border: black solid 1px;
+  margin-left: -12px;
+  margin-right: -12px;
+  height: 100px;
+  font-weight: bold;
+  font-size: 18px;
+
+
+}
+
+#form-contenttugas14{
+  border: black solid 1px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: -10px;
+  background-color: #aaaaaa;
+}
 
 
 /*@media (prefers-reduced-motion: no-preference) {
