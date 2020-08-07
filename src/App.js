@@ -4,15 +4,22 @@ import './App.css';
 import Timer from './tugas12/timer';
 // import Table2 from './tugas13/Table2'
 import Table3 from './tugas14/Table3';
+import {BrowserRouter as Router} from "react-router-dom";
+import Routes from './tugas15/Routes'
 
 function App() {
   return (
-    <div className="App">
+  	<div className="App">
+  		<Timer start={101}/>
+  		<Table3/>
+  		
 
-      <Timer start={101}/>
-      <Table3/>
-    </div>
-  );
+  		<Router>
+ 	 		<Routes/>
+  		</Router>
+  		</div>
+  	
+  	);
 }
 
 export default App
